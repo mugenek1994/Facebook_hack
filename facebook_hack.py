@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+https://www.facebook.com/dayzielynnbaby?mibextid=LQQJ4d
 import socket, sys, os, re, random, optparse, time, io
 if sys.version_info.major <= 2:import httplib
 else:import http.client as httplib
